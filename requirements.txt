@@ -1,0 +1,2 @@
+# general dependencies
+pygame 2.2+ or compatitable with python 3.11
